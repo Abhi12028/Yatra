@@ -1,0 +1,7 @@
+node_modules
+dist
+.env
+supabase/.temp
+.DS_Store
+*.log
+.impeccable/hook.cache.json

@@ -1,0 +1,13 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "side-tab",
+        "value": ".game::before",
+        "createdAt": "2026-10-31T07:02:16.276Z"
+      }
+    ]
+  }
+}
